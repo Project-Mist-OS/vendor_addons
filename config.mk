@@ -303,10 +303,9 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
-    GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium \
-    GesturalNavigationOverlayHidden \
-    GesturalNavigationOverlayHiddenNarrow
+    LineageNavigationBarNarrowSpace \
+    LineageNavigationBarNoHint \
+    LineageNavigationBarNoSpace
 
 # Navbar styles
 PRODUCT_PACKAGES += \
